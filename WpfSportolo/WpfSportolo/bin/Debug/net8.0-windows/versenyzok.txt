@@ -1,0 +1,5 @@
+﻿Hosszú Katinka;95;Magyarország
+Michael Phelps;98;USA
+Cseh László;92;Magyarország
+Adam Peaty;88;Egyesült Királyság
+Milák Kristóf;96;Magyarország
